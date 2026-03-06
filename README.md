@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/66497c7a-1d76-4b5e-9f31-c964ddf4c389
+View app deployed in Vercel: https://apartmate-inky.vercel.app/
 
 ## Run Locally
 
